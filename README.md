@@ -12,7 +12,7 @@ L’interface visible par l’utilisateur est une application web développée e
 
 Afin d’accélérer l’affichage, nous n’avons pas utilisé de librairie graphique (type bootstrap) mais sommes restés sur du CSS pur. 
 
-![image](https://user-images.githubusercontent.com/18288635/150162649-20c71525-404a-4ae5-897c-fb8b89b21091.png)
+![](Aspose.Words.2bde41ed-ff6f-4ecc-9051-709936f6692f.001.jpeg)
 
 
 Dans l’écran principal sont disposés le résultat retourné par l’API ainsi que son temps de réponse. 
