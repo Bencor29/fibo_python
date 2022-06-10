@@ -45,8 +45,8 @@ Afin de réaliser ce projet nous avons travaillé en binôme en se partageant le
 
 La phase d’étude a été réalisée en binôme, n’étant pas habitués des langages python/C/C++, celle-ci a représenté la majeure partie du temps consommé pour le projet. Nous nous sommes ensuite partagé les tâches liées à son développement ainsi : 
 
-Application frontale & Déploiement : Benjamin CORNOU
+Application frontale & Déploiement : Benjamin C
 
-Application dorsale : Guillaume CRUSCA 
+Application dorsale : Guillaume C
 
 Nous avons travaillé en pair-programming sur les tâches de développement. L’ensemble des codes produits est disponible sur le[ repository GitHub.](https://github.com/Bencor29/fibo_python/) 
